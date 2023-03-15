@@ -2,7 +2,7 @@
 
 ## Important Note: Please Download the zip and extract it where you can see all the important images included in the project to understand the data pipelines.
 
-Export data from mysql-database to REDSHIFT using kafka
+Export E-Commerce Company Customers Data from Mysql-Database to Redshift using Kafka Confluent Cluster and Pyspark in Glue Job 
 
 ![Data flow diagram](./diagrams/dataflow-diagram.png)
 
