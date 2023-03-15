@@ -1,5 +1,7 @@
 # E-Commerce_Customers_Data_End_to_End_Data_Engineering_Project
 
+## Important Note: Please Download the zip and extract it where you can see all the important images included in the project to understand the data pipelines.
+
 Export data from mysql-database to REDSHIFT using kafka
 
 ![Data flow diagram](./diagrams/dataflow-diagram.png)
